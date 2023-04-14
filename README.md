@@ -1,6 +1,6 @@
 # Hi there, I'm Mike! :wave:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mjneuharth&show_icons=true&theme=github_dark_dimmed">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjneuharth&theme=github_dark_dimmed">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjneuharth&theme=github_dark_dimmed&count_private=true">
 
 <br />
 
